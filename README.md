@@ -38,8 +38,9 @@ When I’m not diving into cloud projects, you’ll find me:
 ---
 
 ## 🌐 Connect With Me
-- EmailId:-tripathysanjana02@gmail.com
-- LinkedIn: [linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/sanjana-tripathy-902139274/)  
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tripathysanjana02@gmail.com)
+
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-tripathy-902139274/)  
 
 ---
 
